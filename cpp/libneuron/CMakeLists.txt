@@ -1,0 +1,1 @@
+add_library(neuron src/Neuron.cpp src/Neuron.h src/InputNeuron.cpp src/InputNeuron.h src/HiddenNeuron.cpp src/HiddenNeuron.h src/OutputNeuron.cpp src/OutputNeuron.h)

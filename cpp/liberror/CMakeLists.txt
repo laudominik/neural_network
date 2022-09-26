@@ -1,0 +1,1 @@
+add_library(error src/SizeMismatchException.h src/SizeMismatchException.cpp)

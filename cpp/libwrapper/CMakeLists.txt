@@ -1,0 +1,1 @@
+add_library(wrapper src/Wrapper.cpp src/Wrapper.h src/img/Imgwrapper.cpp src/img/Imgwrapper.h)
